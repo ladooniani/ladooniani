@@ -1,6 +1,6 @@
 ### My name is Lado Oniani 👋
 
-**ladooniani/ladooniani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ladooniani/ladooniani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 💫  My research and development in computational logic and mechanics focused on invention and investigation synthetic entity architecture, experimental and assistive educational, therapeutic, social and humanitarian interactive and robotic technologies and concepts.
 - 🔭 I’m currently working on [Terbinari CBM project](https://github.com/ladooniani/terbinari) 
