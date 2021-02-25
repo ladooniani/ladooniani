@@ -14,9 +14,9 @@ To get updates from research workflow, please follow us on social networks and s
 
 📫 How to reach me: ladooniani@gmail.com
 
-
--->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ladooniani&show_icons=true&theme=tokyonight)
+-->
+
 
 ## ✉️ Find me on:
 
