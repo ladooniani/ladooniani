@@ -25,6 +25,6 @@ To get updates from research workflow, please follow us on social networks and s
 -->
 ## 🧰 Languages and Tools:
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ladooniani=ladooniani&theme=ladooniani)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladooniani&theme=tokyonight)
  
  
