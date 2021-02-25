@@ -9,14 +9,17 @@
 
 📫 How to reach me: 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lado-oniani/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.instagram.com/terbinari_cbm/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
+
+
+
+
+  
+   <a href="https://www.linkedin.com/in/lado-oniani/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
+    
   <a href="https://www.facebook.com/socprofile/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
-  <a href="https://twitter.com/ArtificialToy" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q/featured"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Email" height="20" style="vertical-align:top; margin:4px"></a>
+  
  <a href="mailto:ladooniani@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="20" style="vertical-align:top; margin:4px"></a>
-</p>
+
 
 ## 🧰 Languages and Tools:
 
