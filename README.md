@@ -5,7 +5,7 @@
 - 💫  My research and development in computational logic and mechanics focused on invention and investigation synthetic entity architecture, experimental and assistive educational, therapeutic, social and humanitarian interactive and robotic technologies and concepts.
 - 🔭 I’m currently working on [Terbinari CBM project](https://github.com/ladooniani/terbinari) 
 - 💬 Ask me about anything
-- 👯 I’m looking for support to help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references. 
+- 👯 I’m looking for support to expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references. 
 
 📫 How to reach me: 
 
