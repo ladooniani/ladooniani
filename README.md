@@ -31,4 +31,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://www.imagine-dsuk.com/wp-content/uploads/2017/05/Autodesk-Inventor-Logo.jpg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d5/Logo_for_3ds_Max.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg"></code>
  
