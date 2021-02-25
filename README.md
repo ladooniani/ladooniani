@@ -29,5 +29,5 @@ To get updates from research workflow, please follow us on social networks and s
  <a href="mailto:ladooniani@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="20" style="vertical-align:top; margin:4px"></a>
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ladooniani.ladooniani)
+
  
