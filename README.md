@@ -26,5 +26,11 @@ To get updates from research workflow, please follow us on social networks and s
 ## 🧰 Languages and Tools:
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladooniani&theme=tokyonight)
+
+<script type="text/javascript" src="https://github-profile.com/dist/gh-profile-card.min.js"></script>
+
+<div id="github-card"
+     data-username="YOUR_GITHUB_USERNAME">
+</div>
  
  
