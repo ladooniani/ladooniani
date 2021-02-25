@@ -17,8 +17,7 @@ To get updates from research workflow, please follow us on social networks and s
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ladooniani&show_icons=true&theme=tokyonight)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladooniani&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladooniani&layout=compact)](https://github.com/ladooniani/github-readme-stats)
 
 ## ✉️ Find me on:
 
