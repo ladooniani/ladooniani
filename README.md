@@ -17,7 +17,7 @@ To get updates from research workflow, please follow us on social networks and s
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ladooniani&show_icons=true&theme=tokyonight)
 -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ladooniani)](https://github.com/ladooniani/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@5d184754-d4d8-4b94-992f-c968dc92018f)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✉️ Find me on:
 
