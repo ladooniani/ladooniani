@@ -6,11 +6,16 @@
 - 🔭 I’m currently working on [Terbinari CBM project](https://github.com/ladooniani/terbinari) 
 - 👯 I’m looking for support to help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references. 
 
-To get updates from research workflow, please follow us on social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
-
 📫 How to reach me: 
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/lado-oniani/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.instagram.com/terbinari_cbm/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.facebook.com/socprofile/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
+  <a href="https://twitter.com/ArtificialToy" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q/featured"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Email" height="20" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:ladooniani@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="20" style="vertical-align:top; margin:4px"></a>
+</p>
 
 
 <!--
