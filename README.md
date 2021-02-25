@@ -12,7 +12,6 @@ My research and development in computational logic and mechanics focused on inve
 
 To get updates from research workflow, please follow us on social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
 
-- 💬 Ask me about ...
 📫 How to reach me: ladooniani@gmail.com
 
 <p align="center">
@@ -23,14 +22,5 @@ To get updates from research workflow, please follow us on social networks and s
 
 <br />
 -->
-## 🧰 Languages and Tools:
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladooniani&theme=tokyonight)
 
-<script type="text/javascript" src="https://github-profile.com/dist/gh-profile-card.min.js"></script>
-
-<div id="github-card"
-     data-username="YOUR_GITHUB_USERNAME">
-</div>
- 
  
