@@ -12,6 +12,8 @@
  <a href="mailto:ladooniani@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://www.linkedin.com/in/lado-oniani/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a> 
   <a href="https://www.facebook.com/socprofile/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladooniani&theme=tokyonight)
 
 ### 🧰 Languages and Tools:
 
