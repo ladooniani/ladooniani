@@ -7,7 +7,7 @@
 - 📌 [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0)
    
 - 💬 Ask me about anything
-- 💛👯 I’m looking for support to expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration, and search for other references. 
+- 👯 I’m looking for support to expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration, and search for other references. 
 
 ### 📫 How to reach me: 
 
