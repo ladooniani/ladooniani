@@ -1,4 +1,4 @@
-### My name is [Lado Oniani](https://github.com/ladooniani/resume-cv/blob/main/README.md) 👋
+### My name is Lado Oniani 👋
 
 <!-- **ladooniani/ladooniani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
