@@ -8,5 +8,8 @@
    
 - 💬 Ask me about anything
  <!--- - 👯 I’m looking for support to expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration, and search for other references. --->
-
+ <!--- <img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="63">  --->
+ [<img alt="Rubber duck on " width="63px" src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" />](https://github.com/ladooniani/resume-cv/blob/main/README.md)
+ 
+ 
 
