@@ -1,3 +1,5 @@
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png) 
+
 ### My name is [Lado Oniani](https://github.com/ladooniani/resume-cv/blob/main/README.md) 👋
 
 <!-- **ladooniani/ladooniani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
