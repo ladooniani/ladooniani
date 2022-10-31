@@ -13,5 +13,3 @@
  <!--- <img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="63">  --->
   [<img alt="Rubber duck on chess place radio fisheye TAI lab icon" width="59px" src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" />](https://github.com/ladooniani/resume-cv/blob/main/README.md) 
  <!--- [<img alt="Rubber duck on chess place radio fisheye TAI lab icon" width="59px" src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-blue-chess-place-radio-fisheye.png" />](https://github.com/ladooniani/resume-cv/blob/main/README.md) --->
-
-🔍 [Content](https://github.com/ladooniani/readme/blob/main/README.md)
