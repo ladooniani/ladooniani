@@ -1,8 +1,9 @@
 [<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png" />](https://github.com/ladooniani/terbinari) 
 
+<!--
 ### My name is [Lado Oniani](https://github.com/ladooniani/resume-cv/blob/main/README.md) 👋
 
-<!-- **ladooniani/ladooniani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+ **ladooniani/ladooniani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I'm a software engineer with expertise in mechanical engineering and industrial design. My focus is on developing and researching synthetic entities and interactive technologies for educational, therapeutic, and humanitarian purposes. As a freelancer, I provide full-stack development services for complex software solutions and specialize in intelligent robotics and design. My drive for engineering pushes me to find creative solutions for real-world problems, and I am constantly learning new techniques and best practices in programming, data structures, and algorithms.
 
