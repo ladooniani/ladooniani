@@ -1,4 +1,4 @@
-[<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png" />](https://github.com/ladooniani/terbinari) 
+[<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png" />](https://github.com/ladooniani) 
 
 <!--
 ### My name is [Lado Oniani](https://github.com/ladooniani/resume-cv/blob/main/README.md) 👋
