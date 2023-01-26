@@ -13,8 +13,6 @@ As a freelancer, I provide full-stack development services for complex software 
 
 I aim to find creative solutions for real-world problems, constantly learning new techniques and best practices in programming, data structures, and algorithms. 
 
-My goal is to make a positive impact through technology.
-
 <!--
 - 🌌 I’m currently working on [Terbinari CBM project](https://github.com/ladooniani/terbinari). My research and development in computational logic and mechanics focused on invention and investigation of synthetic entity architecture, experimental and assistive educational, therapeutic, social, and humanitarian interactive and robotic technologies and concepts. 
  
