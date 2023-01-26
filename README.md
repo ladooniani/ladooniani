@@ -6,11 +6,8 @@
  **ladooniani/ladooniani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I'm a software engineer with expertise in mechanical engineering and industrial design. 
-
 I create and research synthetic entities and interactive technologies for educational, therapeutic and humanitarian purposes. 
-
 As a freelancer, I provide full-stack development services for complex software solutions and specialize in intelligent robotics and design. 
-
 I aim to find creative solutions for real-world problems, constantly learning new techniques and best practices in programming, data structures, and algorithms. 
 
 <!--
