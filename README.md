@@ -1,5 +1,3 @@
-### My name is [Lado Oniani](https://github.com/ladooniani/resume-cv/blob/main/README.md) 👋
-
 I'm a software engineer with expertise in mechanical engineering and industrial design. 
 I create and research synthetic entities and interactive technologies for educational, therapeutic and humanitarian purposes. 
 
