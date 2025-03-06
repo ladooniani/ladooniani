@@ -1,8 +1,4 @@
-I'm a software engineer with expertise in mechanical engineering and industrial design. 
-I create and research synthetic entities and interactive technologies for educational, therapeutic and humanitarian purposes. 
-
-As a freelancer, I provide full-stack development services for complex software solutions and specialize in intelligent robotics and design. 
-I aim to find creative solutions for real-world problems, constantly learning new techniques and best practices in programming, data structures, and algorithms. 
+Software Engineer with a background in mechanical engineering and industrial design. I specialize in creating and researching synthetic entities and interactive technologies for educational, therapeutic, and humanitarian applications. As a freelance full-stack developer, I deliver comprehensive software solutions for complex challenges, blending technical innovation with purpose-driven design.
 <!--
 For more information, please check out my [**CV**](https://github.com/ladooniani/lado-oniani-cv.md/blob/main/Lado-Oniani-CV.md)
 -->
